@@ -1,0 +1,15 @@
+## FILE -> PREFERENCES -> SEARCH: RULERS -> EDIT SETTINGS.JSON
+## C:\Users\{USER}\AppData\Roaming\Code\User\settings.json
+
+
+"editor.rulers": [
+    {
+        "column": 80,
+        "color": "#fffb00"
+      },
+      {
+        "column": 120,
+        "color": "#ff0000"
+      },
+]
+

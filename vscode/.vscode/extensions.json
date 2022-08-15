@@ -1,0 +1,23 @@
+{ 
+    "recommendations": ["alexcvzz.vscode-sqlite", 
+                        "PKief.material-icon-theme",
+                        "ritwickdey.LiveServer",
+                        "ms-vsliveshare.vsliveshare",
+                        "ms-python.python",
+                        "2gua.rainbow-brackets",
+                        "dracula-theme.theme-dracula",
+                        "alefragnani.Bookmarks",
+                        "VisualStudioExptTeam.vscodeintellicode",
+                        "ms-python.vscode-pylance"]
+}
+
+// - live server
+// - live share
+// - python
+// - rainbow brackets
+// - dracula theme
+// - material icon theme
+// - sqlite
+// - bookmarks
+// - intelliCode
+// - pylance

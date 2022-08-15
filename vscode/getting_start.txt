@@ -1,0 +1,7 @@
+VSCODE
+- Instalar extensões recomendadas.
+    - Procurar por @recommended em extensões, e depois clicar na nuvem de download.
+- Configurar "CMD" como terminal padrão.
+    - CTRL + SHIFT + P -> Termianl: Select Default Profile -> Command Prompt
+- Configurar réguas verticais.
+    - Instruções em rulers.txt

@@ -1,0 +1,11 @@
+PYTHON
+- Criar ambiente virtual: python -m venv .venv
+- Ativar ambiente virtual no prompt command (CMD): .venv\scripts\activate
+- Instalar bibliotecas: pip install -r requirements.txt
+
+DJANGO:
+- pip install django
+- django-admin startproject settings .
+- LANGUAGE_CODE = 'pt-br' 
+  TIME_ZONE = 'America/Sao_Paulo'
+- python manage.py startapp NOME_PROJETO
